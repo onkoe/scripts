@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application # yeah it's pretty complex ;)
+Name=Mouse Fixer
+Exec=bash -c '/home/barrett/Documents/scripts/mouse.sh' # shamelessly stolen from https://old.reddit.com/r/Ubuntu/comments/q99s5c/executing_bash_script_on_login/
+Comment=man it fixes the mouse, what else do you want from me
+X-GNOME-Autosatrt-enabled=true
