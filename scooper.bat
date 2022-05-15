@@ -53,7 +53,7 @@ exit /B 0
 	echo Updating existing applications...
 	cmd /C scoop update *
 :: install the stuff
-	cmd /C scoop install wezterm clink sioyek 7zip git deadbeef nextcloud sudo telegram tldr yt-dlp ffmpeg micro flameshot virtualbox-np vlc qview losslesscut gh gow
+	cmd /C scoop install wezterm clink sioyek 7zip git deadbeef nextcloud sudo telegram tldr yt-dlp ffmpeg micro flameshot virtualbox-np vlc qview losslesscut gh gow losslesscut
 	echo The installation script has finished successfully!
 EXIT /B 0
 
